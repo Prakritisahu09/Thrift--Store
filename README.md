@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Read Me First
 The following was discovered as part of building this project:
 
@@ -28,3 +29,6 @@ The following guides illustrate how to use some features concretely:
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/).
 
+=======
+# Thrift--Store
+>>>>>>> 30d698cef0f89ff76e75dedb3de4694606b85086
